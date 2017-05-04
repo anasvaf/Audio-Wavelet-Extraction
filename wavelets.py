@@ -1,4 +1,4 @@
-##### Tasos Vafeiadis - wav Wavelet extraction #####
+##### WAV Wavelet extraction #####
 
 import scipy.io.wavfile
 import matplotlib.pyplot as plt
